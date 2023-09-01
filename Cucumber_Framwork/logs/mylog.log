@@ -1,0 +1,174 @@
+[INFO ] 2023-08-18 16:55:56.517 [main] StepDef - Setup executed
+[INFO ] 2023-08-18 16:55:57.293 [main] StepDef - user opens website
+[INFO ] 2023-08-18 16:55:57.428 [main] StepDef - user enter email and password
+[INFO ] 2023-08-18 16:56:01.053 [main] StepDef - user clicks on login
+[INFO ] 2023-08-18 16:56:01.682 [main] StepDef - Logout button clicked
+[INFO ] 2023-08-18 16:56:01.813 [main] StepDef - last method executed
+[INFO ] 2023-08-29 21:14:46.731 [main] StepDef - Setup executed
+[INFO ] 2023-08-29 21:14:47.819 [main] StepDef - user opens website
+[INFO ] 2023-08-29 21:14:47.969 [main] StepDef - user enter email and password
+[INFO ] 2023-08-29 21:14:51.413 [main] StepDef - user clicks on login
+[INFO ] 2023-08-29 21:14:51.942 [main] StepDef - Logout button clicked
+[INFO ] 2023-08-29 21:14:52.051 [main] StepDef - last method executed
+[INFO ] 2023-08-29 21:15:18.864 [main] StepDef - Setup executed
+[INFO ] 2023-08-29 21:15:19.514 [main] StepDef - user opens website
+[INFO ] 2023-08-29 21:15:19.663 [main] StepDef - user enter email and password
+[INFO ] 2023-08-29 21:15:23.411 [main] StepDef - user clicks on login
+[INFO ] 2023-08-29 21:15:29.934 [main] StepDef - last method executed
+[INFO ] 2023-08-29 21:15:30.565 [main] StepDef - Setup executed
+[INFO ] 2023-08-29 21:15:30.885 [main] StepDef - user opens website
+[INFO ] 2023-08-29 21:15:31.024 [main] StepDef - user enter email and password
+[INFO ] 2023-08-29 21:15:34.087 [main] StepDef - user clicks on login
+[INFO ] 2023-08-29 21:15:36.935 [main] StepDef - last method executed
+[INFO ] 2023-08-29 21:15:37.563 [main] StepDef - Setup executed
+[INFO ] 2023-08-29 21:15:37.906 [main] StepDef - user opens website
+[INFO ] 2023-08-29 21:15:38.042 [main] StepDef - user enter email and password
+[INFO ] 2023-08-29 21:15:41.740 [main] StepDef - user clicks on login
+[INFO ] 2023-08-29 21:15:42.251 [main] StepDef - Logout button clicked
+[INFO ] 2023-08-29 21:15:42.363 [main] StepDef - last method executed
+[INFO ] 2023-08-29 21:15:42.984 [main] StepDef - Setup executed
+[INFO ] 2023-08-29 21:15:43.595 [main] StepDef - user opens website
+[INFO ] 2023-08-29 21:15:43.731 [main] StepDef - user enter email and password
+[INFO ] 2023-08-29 21:15:46.910 [main] StepDef - user clicks on login
+[INFO ] 2023-08-29 21:15:47.573 [main] StepDef - Logout button clicked
+[INFO ] 2023-08-29 21:15:47.681 [main] StepDef - last method executed
+[INFO ] 2023-08-29 21:15:48.333 [main] StepDef - Setup executed
+[INFO ] 2023-08-29 21:15:48.892 [main] StepDef - user opens website
+[INFO ] 2023-08-29 21:15:49.031 [main] StepDef - user enter email and password
+[INFO ] 2023-08-29 21:15:52.051 [main] StepDef - user clicks on login
+[INFO ] 2023-08-29 21:15:52.601 [main] StepDef - Logout button clicked
+[INFO ] 2023-08-29 21:15:52.712 [main] StepDef - last method executed
+[INFO ] 2023-08-29 21:19:16.133 [main] StepDef - Setup executed
+[INFO ] 2023-08-29 21:19:16.674 [main] StepDef - user opens website
+[INFO ] 2023-08-29 21:19:16.821 [main] StepDef - user enter email and password
+[INFO ] 2023-08-29 21:19:22.295 [main] StepDef - user clicks on login
+[INFO ] 2023-08-29 21:19:23.733 [main] StepDef - Logout button clicked
+[INFO ] 2023-08-29 21:19:23.847 [main] StepDef - last method executed
+[INFO ] 2023-08-29 21:20:51.063 [main] StepDef - Setup executed
+[INFO ] 2023-08-29 21:20:51.715 [main] StepDef - user opens website
+[INFO ] 2023-08-29 21:20:51.854 [main] StepDef - user enter email and password
+[INFO ] 2023-08-29 21:20:55.895 [main] StepDef - user clicks on login
+[INFO ] 2023-08-29 21:21:00.938 [main] StepDef - last method executed
+[INFO ] 2023-08-29 21:37:48.232 [main] StepDef - Setup executed
+[INFO ] 2023-08-29 21:38:26.552 [main] StepDef - Setup executed
+[INFO ] 2023-08-29 21:40:22.480 [main] StepDef - Setup executed
+[INFO ] 2023-08-29 21:40:24.009 [main] StepDef - user opens website
+[INFO ] 2023-08-29 21:40:24.067 [main] StepDef - user enter email and password
+[INFO ] 2023-08-29 21:40:26.986 [main] StepDef - user clicks on login
+[INFO ] 2023-08-29 21:40:30.311 [main] StepDef - last method executed
+[INFO ] 2023-08-29 21:40:58.450 [main] StepDef - Setup executed
+[INFO ] 2023-08-29 21:42:39.414 [main] StepDef - Setup executed
+[INFO ] 2023-08-29 21:42:40.302 [main] StepDef - user opens website
+[INFO ] 2023-08-29 21:42:40.362 [main] StepDef - user enter email and password
+[INFO ] 2023-08-29 21:42:43.448 [main] StepDef - user clicks on login
+[INFO ] 2023-08-29 21:42:46.743 [main] StepDef - last method executed
+[INFO ] 2023-08-29 21:48:20.827 [main] StepDef - Setup executed
+[INFO ] 2023-08-29 21:48:21.727 [main] StepDef - user opens website
+[INFO ] 2023-08-29 21:48:21.874 [main] StepDef - user enter email and password
+[INFO ] 2023-08-29 21:48:25.587 [main] StepDef - user clicks on login
+[INFO ] 2023-08-29 21:48:29.812 [main] StepDef - last method executed
+[INFO ] 2023-08-29 21:48:46.988 [main] StepDef - Setup executed
+[INFO ] 2023-08-29 21:48:47.750 [main] StepDef - user opens website
+[INFO ] 2023-08-29 21:48:47.822 [main] StepDef - user enter email and password
+[INFO ] 2023-08-29 21:48:51.615 [main] StepDef - user clicks on login
+[INFO ] 2023-08-29 21:48:55.531 [main] StepDef - last method executed
+[INFO ] 2023-08-29 22:36:32.398 [main] StepDef - Setup executed
+[INFO ] 2023-08-29 22:36:33.339 [main] StepDef - user opens website
+[INFO ] 2023-08-29 22:36:33.447 [main] StepDef - user enter email and password
+[INFO ] 2023-08-29 22:36:36.861 [main] StepDef - user clicks on login
+[INFO ] 2023-08-29 22:37:12.334 [main] StepDef - Setup executed
+[INFO ] 2023-08-29 22:37:12.968 [main] StepDef - user opens website
+[INFO ] 2023-08-29 22:37:13.171 [main] StepDef - user enter email and password
+[INFO ] 2023-08-29 22:37:16.784 [main] StepDef - user clicks on login
+[INFO ] 2023-08-29 22:39:25.209 [main] StepDef - Setup executed
+[INFO ] 2023-08-29 22:39:26.150 [main] StepDef - user opens website
+[INFO ] 2023-08-29 22:39:26.407 [main] StepDef - user enter email and password
+[INFO ] 2023-08-29 22:39:30.064 [main] StepDef - user clicks on login
+[INFO ] 2023-08-29 22:39:35.569 [main] StepDef - last method executed
+[INFO ] 2023-08-29 22:42:26.694 [main] StepDef - Setup executed
+[INFO ] 2023-08-29 22:42:27.387 [main] StepDef - user opens website
+[INFO ] 2023-08-29 22:42:27.587 [main] StepDef - user enter email and password
+[INFO ] 2023-08-29 22:42:31.532 [main] StepDef - user clicks on login
+[INFO ] 2023-08-29 22:42:36.327 [main] StepDef - last method executed
+[INFO ] 2023-08-29 22:47:17.476 [main] StepDef - Setup executed
+[INFO ] 2023-08-29 22:47:18.326 [main] StepDef - user opens website
+[INFO ] 2023-08-29 22:47:18.542 [main] StepDef - user enter email and password
+[INFO ] 2023-08-29 22:47:22.507 [main] StepDef - user clicks on login
+[INFO ] 2023-08-29 22:47:23.150 [main] StepDef - Logout button clicked
+[INFO ] 2023-08-29 22:47:23.416 [main] StepDef - last method executed
+[INFO ] 2023-08-29 22:48:52.948 [main] StepDef - Setup executed
+[INFO ] 2023-08-29 22:48:53.645 [main] StepDef - user opens website
+[INFO ] 2023-08-29 22:48:53.849 [main] StepDef - user enter email and password
+[INFO ] 2023-08-29 22:48:57.821 [main] StepDef - user clicks on login
+[INFO ] 2023-08-29 22:48:58.757 [main] StepDef - Logout button clicked
+[INFO ] 2023-08-29 22:49:59.074 [main] StepDef - Setup executed
+[INFO ] 2023-08-29 22:49:59.800 [main] StepDef - user opens website
+[INFO ] 2023-08-29 22:50:00.020 [main] StepDef - user enter email and password
+[INFO ] 2023-08-29 22:50:03.264 [main] StepDef - user clicks on login
+[INFO ] 2023-08-29 22:50:03.953 [main] StepDef - Logout button clicked
+[INFO ] 2023-08-29 22:50:04.265 [main] StepDef - last method executed
+[INFO ] 2023-08-29 22:51:04.413 [main] StepDef - Setup executed
+[INFO ] 2023-08-29 22:51:04.852 [main] StepDef - user opens website
+[INFO ] 2023-08-29 22:51:05.057 [main] StepDef - user enter email and password
+[INFO ] 2023-08-29 22:51:08.566 [main] StepDef - user clicks on login
+[INFO ] 2023-08-29 22:51:09.255 [main] StepDef - Logout button clicked
+[INFO ] 2023-08-29 22:51:46.618 [main] StepDef - Setup executed
+[INFO ] 2023-08-29 22:51:47.310 [main] StepDef - user opens website
+[INFO ] 2023-08-29 22:51:47.511 [main] StepDef - user enter email and password
+[INFO ] 2023-08-29 22:51:51.458 [main] StepDef - user clicks on login
+[INFO ] 2023-08-29 22:51:52.539 [main] StepDef - Logout button clicked
+[INFO ] 2023-08-29 23:01:34.610 [main] StepDef - Setup executed
+[INFO ] 2023-08-29 23:01:35.163 [main] StepDef - user opens website
+[INFO ] 2023-08-29 23:01:35.314 [main] StepDef - user enter email and password
+[INFO ] 2023-08-29 23:01:39.352 [main] StepDef - user clicks on login
+[INFO ] 2023-08-29 23:01:40.087 [main] StepDef - Logout button clicked
+[INFO ] 2023-08-29 23:04:24.642 [main] StepDef - Setup executed
+[INFO ] 2023-08-29 23:04:25.212 [main] StepDef - user opens website
+[INFO ] 2023-08-29 23:04:25.358 [main] StepDef - user enter email and password
+[INFO ] 2023-08-29 23:04:29.283 [main] StepDef - user clicks on login
+[INFO ] 2023-08-29 23:04:34.033 [main] StepDef - Setup executed
+[INFO ] 2023-08-29 23:04:34.609 [main] StepDef - user opens website
+[INFO ] 2023-08-29 23:04:34.753 [main] StepDef - user enter email and password
+[INFO ] 2023-08-29 23:04:38.477 [main] StepDef - user clicks on login
+[INFO ] 2023-08-29 23:04:42.058 [main] StepDef - Setup executed
+[INFO ] 2023-08-29 23:04:42.699 [main] StepDef - user opens website
+[INFO ] 2023-08-29 23:04:42.835 [main] StepDef - user enter email and password
+[INFO ] 2023-08-29 23:04:46.320 [main] StepDef - user clicks on login
+[INFO ] 2023-08-29 23:04:47.079 [main] StepDef - Logout button clicked
+[INFO ] 2023-08-29 23:04:47.825 [main] StepDef - Setup executed
+[INFO ] 2023-08-29 23:04:48.159 [main] StepDef - user opens website
+[INFO ] 2023-08-29 23:04:48.295 [main] StepDef - user enter email and password
+[INFO ] 2023-08-29 23:04:51.919 [main] StepDef - user clicks on login
+[INFO ] 2023-08-29 23:04:52.700 [main] StepDef - Logout button clicked
+[INFO ] 2023-08-29 23:04:53.464 [main] StepDef - Setup executed
+[INFO ] 2023-08-29 23:04:54.059 [main] StepDef - user opens website
+[INFO ] 2023-08-29 23:04:54.199 [main] StepDef - user enter email and password
+[INFO ] 2023-08-29 23:04:57.602 [main] StepDef - user clicks on login
+[INFO ] 2023-08-29 23:04:58.164 [main] StepDef - Logout button clicked
+[INFO ] 2023-08-31 09:24:35.950 [main] StepDef - Setup executed
+[INFO ] 2023-08-31 09:24:37.328 [main] StepDef - user opens website
+[INFO ] 2023-08-31 09:24:37.462 [main] StepDef - user enter email and password
+[INFO ] 2023-08-31 09:24:45.938 [main] StepDef - user clicks on login
+[INFO ] 2023-08-31 09:24:52.496 [main] StepDef - Setup executed
+[INFO ] 2023-08-31 09:24:53.787 [main] StepDef - user opens website
+[INFO ] 2023-08-31 09:24:53.929 [main] StepDef - user enter email and password
+[INFO ] 2023-08-31 09:25:03.427 [main] StepDef - user clicks on login
+[INFO ] 2023-08-31 09:25:07.490 [main] StepDef - Setup executed
+[INFO ] 2023-08-31 09:25:07.854 [main] StepDef - user opens website
+[INFO ] 2023-08-31 09:25:07.986 [main] StepDef - user enter email and password
+[INFO ] 2023-08-31 09:25:11.368 [main] StepDef - user clicks on login
+[INFO ] 2023-08-31 09:25:11.939 [main] StepDef - Logout button clicked
+[INFO ] 2023-08-31 09:25:12.660 [main] StepDef - Setup executed
+[INFO ] 2023-08-31 09:25:13.005 [main] StepDef - user opens website
+[INFO ] 2023-08-31 09:25:13.138 [main] StepDef - user enter email and password
+[INFO ] 2023-08-31 09:25:16.568 [main] StepDef - user clicks on login
+[INFO ] 2023-08-31 09:25:17.158 [main] StepDef - Logout button clicked
+[INFO ] 2023-08-31 09:25:17.904 [main] StepDef - Setup executed
+[INFO ] 2023-08-31 09:25:18.545 [main] StepDef - user opens website
+[INFO ] 2023-08-31 09:25:18.676 [main] StepDef - user enter email and password
+[INFO ] 2023-08-31 09:25:22.381 [main] StepDef - user clicks on login
+[INFO ] 2023-08-31 09:25:22.925 [main] StepDef - Logout button clicked
+[INFO ] 2023-08-31 09:27:44.009 [main] StepDef - Setup executed
+[INFO ] 2023-08-31 09:27:44.812 [main] StepDef - user opens website
+[INFO ] 2023-08-31 09:27:44.954 [main] StepDef - user enter email and password
+[INFO ] 2023-08-31 09:27:49.012 [main] StepDef - user clicks on login

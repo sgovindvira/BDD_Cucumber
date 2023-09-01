@@ -9,7 +9,7 @@ import io.cucumber.testng.CucumberOptions;
 
 		//features = ".//Features/Customer.feature",  -------------->//single feature
 		//features = ".//Features/",  ---------------------> // Run all features files
-
+			
 
 		features = {".//Features/LoginFeature.feature",".//Features/Customer.feature"},//------------> Selected feature files
 		glue="StepDefinitions1",
